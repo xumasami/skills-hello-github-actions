@@ -1,3 +1,4 @@
+:smile:
 <header>
 
 # Hello GitHub Actions
